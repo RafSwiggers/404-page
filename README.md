@@ -1,6 +1,6 @@
 # 404 PAGE
 
-## Goal: Create an interesting 404-page using CSS and HTML
+## Goal and summary
+Create an interesting 404-page using CSS and HTML, learning more about design as I go
 
-#### Ideas:
- - Stylised, dark corridor with several white doorways. Numbers lining up above the doorways indicate 4th flour. Door 404 is missing, of course..
+## [Link to preview](https://rafswiggers.github.io/404-page/)
